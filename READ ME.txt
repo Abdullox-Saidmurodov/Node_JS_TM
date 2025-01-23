@@ -1,1 +1,5 @@
 Node.js App From Scratch  Express, MongoDB & Google OAuth
+
+You must create:
+1. You need creater in config folder a config.env file and in this file has PORT, MONGO_URI, GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET constants.
+2. Also you need client_secret_543621528514-h315nk8gj9oil8mvmv4i9oe8sgm454ta.apps.googleusercontent.com.json file.
